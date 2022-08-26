@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+}
+
+.caja1 {
+    background-color: #F20F62;
+    height: 600px;
+}
+
+.row {
+    padding: 1rem;
+}
+
+.caja2 {
+    background-color: #1C4AA6;
+    height: 300px;
+}
+
+.caja3 {
+    background-color: #D8F213;
+    height: 300px;
+}
+
+.caja4 {
+    background-color: #A61A0D;
+    height: 250px;
+}
+
+.caja5 {
+    background-color: #0D0D0D;
+    height: 250px;
+}
+
+.caja6 {
+    background-color: #D8F213;
+    height: 100px;
+}
+
+h1 {
+    color: white;
+}
